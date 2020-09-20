@@ -62,7 +62,7 @@ function Chat() {
       <div className="chatBody">
         {roomId ? (
           <>
-            {massage?.map((massage, i) => (
+            {massage?.map((massage) => (
               <>
                 <p
                   className={
