@@ -1,0 +1,31 @@
+.NavLink {
+  text-decoration: none;
+  color: black;
+}
+.NavLink:hover {
+  text-decoration: none;
+  color: black;
+}
+.sidebar {
+  height: 80vh;
+}
+
+.sidebar_header {
+  align-items: center;
+}
+
+.icons {
+  margin: 0 0rem;
+}
+
+.sidebar_room {
+  height: 90%;
+  overflow: scroll;
+}
+
+#rooms {
+  cursor: pointer;
+}
+#rooms:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
